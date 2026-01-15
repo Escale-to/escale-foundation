@@ -83,10 +83,12 @@ This document serves as the long-term reference for the project’s vision, valu
 
 ## Contributing
 
-Contributions are welcome,  
-provided they respect the project’s intention and philosophy.
+Contributions are welcome,
+provided they respect the project’s intention, philosophy, and boundaries.
 
-Guidelines will be defined as the project evolves.
+Before contributing, please read the contribution guidelines:
+
+📄 [`CONTRIBUTING.md`](./CONTRIBUTING.md)
 
 ---
 
