@@ -6,7 +6,7 @@
 
 **Title:** Escale — Founding Document
 **Version:** 1.0
-**Status:** Semi-public
+**Status:** Public – Foundational reference
 **Author:** Bruno Goirand (founder)
 **Date:** January 2026
 
@@ -1076,5 +1076,25 @@ This document is versioned and timestamped through Git.
 
 The authoritative reference for version 1.0
 is the Git tag `v1.0`.
+
+---
+
+This foundational document intentionally refrains from defining certain aspects of the Escale project.
+
+In particular, it does not specify:
+
+* Any technical architecture, implementation details, or technology stack  
+* Any product roadmap, delivery timeline, or release strategy  
+* Any business model, monetization approach, or commercial positioning  
+* Any governance structure, organizational form, or legal entity  
+* Any usage metrics, growth objectives, or engagement targets  
+* Any obligation to scale, optimize, or industrialize the project  
+
+These elements are deliberately left undefined at this stage.
+
+Escale is conceived as a long-term project whose technical, organizational, and economic expressions may evolve over time.  
+Such decisions, when they become relevant, will be addressed in separate documents, at a later stage, and only if they remain aligned with the foundational intent expressed here.
+
+This document defines *what Escale is* and *what it protects*, not *how it must be built*, *marketed*, or *expanded*.
 
 ---
