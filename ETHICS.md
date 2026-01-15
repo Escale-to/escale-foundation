@@ -9,6 +9,8 @@ that guide the development, use, and evolution of the project.
 It does not replace the software license.
 It complements it.
 
+This document is not a marketing statement but a constraint framework.
+
 ---
 
 ## Purpose Before Power
