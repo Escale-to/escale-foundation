@@ -114,5 +114,7 @@ Some messages are worth the wait.
 ---
 
 © 2026 Bruno Goirand. All rights reserved.
+This repository is publicly readable for transparency and discussion purposes.
+No reuse, modification or redistribution is permitted at this stage unless explicitly stated.
 
 ---
