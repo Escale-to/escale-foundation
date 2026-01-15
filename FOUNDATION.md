@@ -1070,14 +1070,7 @@ must remain unchanged.
 
 ---
 
-## Document Integrity
-
-This document is versioned and timestamped through Git.
-
-The authoritative reference for version 1.0
-is the Git tag `v1.0`.
-
----
+## What this document deliberately does NOT define
 
 This foundational document intentionally refrains from defining certain aspects of the Escale project.
 
@@ -1096,5 +1089,14 @@ Escale is conceived as a long-term project whose technical, organizational, and 
 Such decisions, when they become relevant, will be addressed in separate documents, at a later stage, and only if they remain aligned with the foundational intent expressed here.
 
 This document defines *what Escale is* and *what it protects*, not *how it must be built*, *marketed*, or *expanded*.
+
+---
+
+## Document Integrity
+
+This document is versioned and timestamped through Git.
+
+The authoritative reference for version 1.0
+is the Git tag `v1.0`.
 
 ---

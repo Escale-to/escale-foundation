@@ -93,6 +93,28 @@ but the intention behind it.
 
 ---
 
+## What happens to rejected proposals
+
+Not all proposals submitted to Escale will be accepted.
+
+When a proposal is rejected, it should not be interpreted as a judgment on its quality, relevance, or the competence of its author.  
+In most cases, a rejection simply reflects a misalignment with the foundational intent, principles, or boundaries of the project at that moment.
+
+Escale is guided by a deliberately narrow and protected scope.  
+As a result, many ideas that may be valuable, interesting, or well-executed elsewhere may not fit within this project.
+
+Rejected proposals do not imply:
+
+- a lack of appreciation for the effort involved,
+- a negative assessment of the idea itself,
+- or a permanent exclusion of the topic in all contexts.
+
+They indicate only that the proposal does not align with what Escale is meant to be, protect, or explore.
+
+Contributors are encouraged to view rejections as part of a filtering process designed to preserve coherence, not as a verdict on creativity or intent.
+
+---
+
 ## Closing Statement
 
 Escale is not about slowing technology.
